@@ -1,0 +1,6 @@
+n = int(input())
+A = list(map(int,input().split()))
+amin = min(A)
+amax = max(A)
+asum = sum(A)
+print("%d %d %d"%(amin,amax,asum))
