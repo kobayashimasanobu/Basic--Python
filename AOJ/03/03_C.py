@@ -5,3 +5,4 @@ while a!=0 or b!=0:
     else:
         print("%d %d" %(b,a))
     a,b = map(int,input().split())
+    
