@@ -5,3 +5,4 @@ if q in s2:
     print("Yes")
 else:
     print("No")
+    

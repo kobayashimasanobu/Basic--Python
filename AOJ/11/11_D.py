@@ -49,3 +49,4 @@ if 1 in f_ans:
     print("No")
 else:
     print("Yes")
+    

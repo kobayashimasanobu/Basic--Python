@@ -10,3 +10,4 @@ while True:
             abc[n] += 1
 for i in range(26):
     print("%s : %d"%(chr(i+97),abc[i]))
+    

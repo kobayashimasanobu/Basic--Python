@@ -23,3 +23,4 @@ for fb in range(52):
         elif 40<=i<=52:
             print("D %d"%(i-39))
     i+=1
+    

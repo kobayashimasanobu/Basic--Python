@@ -46,3 +46,4 @@ if -1 in coll(Da,Db):
     print("No")
 else:
     rota(Da,Db)
+    
