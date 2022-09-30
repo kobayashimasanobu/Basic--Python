@@ -3,7 +3,7 @@ while True:
     if a == 0:
         break
     ans = 0
-    for f in range(len(str(a))):
+    for f in str(a):
         ans += a%10
         a //= 10    
     print(ans)
